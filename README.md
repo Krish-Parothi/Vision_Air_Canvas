@@ -1,1 +1,1 @@
-# Vision_Air_Canvas
+Vision Air Canvas is a virtual air-drawing system built using MediaPipe Hands and OpenCV. It tracks your index fingertip in real time and lets you draw in the air without touching the screen. A two-finger gesture (✌️) toggles drawing mode on/off, while additional features include smoothing filters (CPU + optional GPU via PyTorch), selfie-camera mirroring, canvas overlay, real-time FPS display, and options to clear or save your drawing. This project provides a fast, intuitive, and fun way to create virtual sketches using nothing but your hand and a webcam.
